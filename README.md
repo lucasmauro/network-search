@@ -19,4 +19,4 @@ Download all project dependencies with the `go get` command.
 
 You may compile the project by running `go build` from the root directory, which will generate a binary file called `network-search`. 
 
-It is also possible to invoke Go and run the project with `go run main.gp [ips|name-servers] --host github.com`.
+It is also possible to invoke Go and run the project with `go run main.go [ips|name-servers] --host github.com`.
